@@ -1,0 +1,17 @@
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Postcodes.API.Testing.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Postcodes.API.Testing.pdb
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Newtonsoft.Json.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\System.Net.Http.Formatting.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\Newtonsoft.Json.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\bin\Debug\System.Net.Http.Formatting.xml
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\obj\Debug\Postcodes.API.Testing.csproj.CoreCompileInputs.cache
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\obj\Debug\Postcodes.API.Testing.dll
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\obj\Debug\Postcodes.API.Testing.pdb
+C:\ND Stuff\Perzonal\Job search\CV\Jobs Applied for\CVs\Sparta Global - Rob Dawson\Tests\Postcodes.API.Testing\Postcodes.API.Testing\obj\Debug\Postcodes.API.Testing.csprojResolveAssemblyReference.cache
